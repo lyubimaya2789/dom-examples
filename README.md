@@ -1,4 +1,4 @@
-# dom-examples
+lyubimaya2789@mail.ru dom-examples
 Code examples that accompany various MDN DOM and Web API documentation pages.
 
 * The "abort-api" directory contains an example of how to use the "Abort API" (aka [AbortSignal](https://dom.spec.whatwg.org/#interface-AbortSignal) and [AbortController](https://dom.spec.whatwg.org/#interface-abortcontroller)). [Run the example live](https://mdn.github.io/dom-examples/abort-api/).
